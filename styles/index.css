@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navigation {
+  width: 80%;
+  height: auto;
+  margin: auto auto;
+}
+/*# sourceMappingURL=index.css.map */
